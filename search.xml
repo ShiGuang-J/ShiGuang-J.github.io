@@ -12,8 +12,13 @@
 <h3 id="第二种是采用相对路径："><a href="#第二种是采用相对路径：" class="headerlink" title="第二种是采用相对路径："></a>第二种是采用相对路径：</h3><pre><code class="bash">![this is a picture2](/images/picture2.jpg)</code></pre>
 <p>图片如下：<br><img src="/images/picture2.jpg" alt="this is a picture2"></p>
 ]]></content>
+      <categories>
+        <category>作业</category>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>博客</tag>
+        <tag>相对路径、绝对路径</tag>
       </tags>
   </entry>
 </search>
