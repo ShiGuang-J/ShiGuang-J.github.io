@@ -11,7 +11,7 @@
 <h3 id="第二种是采用相对路径："><a href="#第二种是采用相对路径：" class="headerlink" title="第二种是采用相对路径："></a>第二种是采用相对路径：</h3><pre><code class="bash">&#123;% codeblock %&#125;
 ![this is a picture2](picture2.jpg)
 &#123;% endcodeblock %&#125;</code></pre>
-<p>图片如下：<br><img src="picture2.jpg" alt="this is a picture2"></p>
+<p>图片如下：<br><img src="/.com//picture2.jpg" alt="this is a picture2"></p>
 ]]></content>
   </entry>
 </search>
