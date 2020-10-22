@@ -9,7 +9,7 @@
 <h3 id="第一种采用绝对路径："><a href="#第一种采用绝对路径：" class="headerlink" title="第一种采用绝对路径："></a>第一种采用绝对路径：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">![this is picture1](https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1603213193868&amp;di=1064306c89008245d3717e9e16b765e7&amp;imgtype=0&amp;src=http%3A%2F%2Ft9.baidu.com%2Fit%2Fu%3D2268908537%2C2815455140%26fm%3D79%26app%3D86%26f%3DJPEG%3Fw%3D1280%26h%3D719)</span><br></pre></td></tr></table></figure>
 
 <p>图片如下：<br><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1603213193868&di=1064306c89008245d3717e9e16b765e7&imgtype=0&src=http://t9.baidu.com/it/u=2268908537,2815455140&fm=79&app=86&f=JPEG?w=1280&h=719" alt="this is picture1"></p>
-<h3 id="第二种是采用相对路径："><a href="#第二种是采用相对路径：" class="headerlink" title="第二种是采用相对路径："></a>第二种是采用相对路径：</h3><pre><code class="bash">![this is a picture2](/images/picture2.jpg)</code></pre>
+<h3 id="第二种是采用相对路径："><a href="#第二种是采用相对路径：" class="headerlink" title="第二种是采用相对路径："></a>第二种是采用相对路径：</h3><pre><code class="bash">![this is picture2](/images/picture2.jpg)                          </code></pre>
 <p>图片如下：<br><img src="/images/picture2.jpg" alt="this is a picture2"></p>
 ]]></content>
       <categories>
